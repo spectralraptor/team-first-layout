@@ -1,1 +1,7 @@
 @import url('reset.css');
+@import url('styles/zhan.css');
+
+.main_container {
+    width: 100%;
+    
+}
